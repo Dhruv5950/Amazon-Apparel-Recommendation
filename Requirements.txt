@@ -1,0 +1,7 @@
+python==3
+conda==3.7.0
+matplotlib==2.2.2
+pandas==0.23.1
+numpy==1.14.5
+sklearn==0.19.1
+keras==2.2.0
